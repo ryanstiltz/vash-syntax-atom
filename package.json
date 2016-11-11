@@ -1,0 +1,17 @@
+{
+  "name": "vash-syntax",
+  "version": "0.1.0",
+  "description": "Vash templating language highlighting support for atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanstiltz/vash-syntax-atom"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanstiltz/vash-syntax-atom/issues"
+  },
+  "license": "MIT"
+}
